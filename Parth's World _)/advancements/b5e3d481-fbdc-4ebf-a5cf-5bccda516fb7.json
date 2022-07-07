@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-07-04 16:59:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-23 21:37:31 +0530"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-07-04 16:39:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-06-23 07:29:34 +0530"
@@ -236,6 +248,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2022-06-24 08:24:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-07-04 16:30:22 +0530"
     },
     "done": true
   },
@@ -335,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-22 11:54:06 +0530"
@@ -413,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-07-04 16:30:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-06-22 10:10:08 +0530"
@@ -422,6 +452,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2022-06-24 12:21:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
     },
     "done": true
   },
@@ -638,6 +674,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-06-25 20:32:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-07-04 15:33:25 +0530"
     },
     "done": true
   },
@@ -1246,6 +1288,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-07-04 16:30:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-07-04 15:33:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2022-06-24 07:59:41 +0530"
@@ -1295,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2022-06-22 10:15:16 +0530"
@@ -1304,6 +1364,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-23 12:10:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
     },
     "done": true
   },
@@ -1382,6 +1448,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-06-23 21:35:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
     },
     "done": true
   },
@@ -1561,6 +1633,8 @@
       "cooked_beef": "2022-06-26 12:05:08 +0530",
       "cooked_cod": "2022-06-23 15:43:00 +0530",
       "bread": "2022-06-22 11:46:31 +0530",
+      "golden_apple": "2022-07-04 16:40:34 +0530",
+      "rotten_flesh": "2022-07-04 16:34:12 +0530",
       "salmon": "2022-06-23 12:16:17 +0530",
       "cooked_chicken": "2022-06-22 10:32:45 +0530",
       "cod": "2022-06-22 20:27:17 +0530",
@@ -1784,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2022-06-23 21:35:44 +0530"
@@ -1853,6 +1933,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-23 07:36:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
     },
     "done": true
   },
@@ -1931,6 +2017,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2022-06-26 12:15:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-07-04 16:39:11 +0530"
     },
     "done": true
   },
@@ -2150,6 +2242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-06-23 07:30:11 +0530"
@@ -2270,6 +2368,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-07-04 16:56:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-06-23 07:41:06 +0530"
@@ -2330,6 +2434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-06-23 08:11:29 +0530"
@@ -2357,6 +2467,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-24 13:01:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-07-04 16:39:11 +0530"
     },
     "done": true
   },
@@ -2417,6 +2533,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-06-23 21:35:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-07-04 15:31:33 +0530"
     },
     "done": true
   },
